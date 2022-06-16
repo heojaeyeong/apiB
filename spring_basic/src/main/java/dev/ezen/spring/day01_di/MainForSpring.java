@@ -2,7 +2,7 @@ package dev.ezen.spring.day01_di;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
-
+//수정합니다.
 public class MainForSpring {
 
 	public static void main(String[] args) {
